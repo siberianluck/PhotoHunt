@@ -1,0 +1,41 @@
+-Create Game
+	-Sign in with photo service
+	-Name game
+	-Set game logo(?)
+	-Set rules
+		-Targets
+			-Name
+			-Description
+		-Points Awarded for each Target
+			-First
+			-Second
+			-Third
+		-Time limit
+			-Game time
+			-Voting time
+	-Invite players
+
+-Play Game
+	-Sign in with photo service
+	-Automatically create the game set on flickr
+	-Display instructions
+		-Take pics of targets
+		-Name pic as target name
+		-Upload to the flickr set
+	-Scan flickr for finished targets
+	-Targets displayed in grid
+		-Finished appear from flickr
+		-unfinished appear as a placeholder
+	-Display countdown clock
+
+-Vote
+	-List of targets
+	-Select target to vote on
+	-Entries presented in a randomized "ladder"
+			-Players choose which is better
+	-Display personal running point total
+
+-Tally Period
+	-Display leader board
+	-Links to target photo grid
+		-Displays awarded points for each target
